@@ -69,3 +69,5 @@ La automatización fue desarrollada con:
 ## Versionamiento 📌
 Se usó Git para el control de versiones. 🔀
 
+# Autor 👨
+***Víctor Andrés León Ballén*** - [vandres777@gmail.com]()
